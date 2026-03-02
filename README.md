@@ -21,10 +21,10 @@ A simple CLI-based random password generator built using Python.
     ```
 
 3. Navigate into the folder:
-   cd python-password-generator
+   cd Python-Password-Generator
 
 4. Run the program:
-   python password_generator.py
+   python main.py
 
 ## 📌 Example
 
