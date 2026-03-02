@@ -16,12 +16,14 @@ A simple CLI-based random password generator built using Python.
 ## ▶️ How to Run
 
 1. Clone the repository:
+   ``` bash
    git clone https://github.com/CodeWithShrey-collab/Python-Password-Generator.git
+    ```
 
-2. Navigate into the folder:
+3. Navigate into the folder:
    cd python-password-generator
 
-3. Run the program:
+4. Run the program:
    python password_generator.py
 
 ## 📌 Example
